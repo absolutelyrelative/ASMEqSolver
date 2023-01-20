@@ -229,7 +229,7 @@ START:
 	
 	skip_it:
 	
-	real_shit:
+	real_hit:
 	LEA BX,Delta
 	MOV CX,[BX]
 	JS fifth_case
