@@ -1,3 +1,7 @@
+COMMENT @
+This is a MASM Executable
+@
+
 .model SMALL
 .DATA
 R DW 0
@@ -266,7 +270,7 @@ START:
 	JMP very_end
 	
 	fifth_case:
-	;Print whatever the fuck you have to
+	;Print whatever you have to
 	JMP very_end
 	
 	
